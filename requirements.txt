@@ -1,0 +1,11 @@
+black
+flake8
+isort
+pip
+python-dotenv
+-e .
+pandas
+numpy
+scikit-learn
+surprise
+pickle-mixin
