@@ -9,3 +9,8 @@ numpy
 scikit-learn
 surprise
 pickle-mixin
+plotly
+notebook>=7.0
+anywidget>=0.9.13
+nbformat>=4.2.0
+kaleido
